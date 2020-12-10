@@ -1,0 +1,11 @@
+﻿INSTRUCTIONS
+
+
+
+
+The file can be compiled on any GCC compiler. Here, it’s been tested on gdb online compiler.
+Only numbers can be entered as command-line arguments until an enter is pressed. 
+
+
+Both the parts A) and B) of the question are combined in the same program. 
+6 worker threads are created to calculate all statistical value.
