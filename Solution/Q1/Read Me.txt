@@ -1,0 +1,16 @@
+﻿INSTRUCTIONS
+
+
+
+
+The file has been tested on Linux and MacOS.
+
+
+
+It can be executed using the standard command as g++ shell.cpp -o shell, pressing enter and then using ./shell and then pressing enter in the Linux terminal.
+
+
+For MacOS, an exec file is generated which then can be implemented on the Mac Terminal by directly clicking on it.
+
+
+The file can be closed using the exit command in both of the above cases.
